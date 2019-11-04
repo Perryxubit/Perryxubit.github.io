@@ -63,7 +63,7 @@ texture:
 
 For example, the blue style looks like this:
 
-![texture theme blue](/screen2.png)
+![texture theme blue](/pictures/screen2.png)
 
 
 **Texture Picker**
